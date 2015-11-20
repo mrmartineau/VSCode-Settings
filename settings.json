@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.fontFamily": "Input Mono",
+	"editor.fontSize": 15,
+	"editor.scrollBeyondLastLine": false,
+	"editor.renderWhitespace": true,
+	"files.trimTrailingWhitespace": true,
+	"javascript.suggest.useCodeSnippetsOnMethodSuggest": true,
+	"javascript.validate.lint.missingSemicolon": "warning",
+	"sass.lint.zeroUnits": "warning",
+	"jshint.enable": true,
+}
